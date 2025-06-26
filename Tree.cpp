@@ -7,3 +7,6 @@ class Node{
     Node *leftchild;
     Node *rightchild;
 
+    //Constructor for the node class
+    Node(){
+ 
