@@ -36,3 +36,9 @@ void search(int element, Node *&parent, Node *&currentNode){
         currentNode = currentNode->rightchild;
     }
 }
+
+void insert(){
+    int x;
+    cout << "Masukkan Nilai : ";
+    cin >> x;
+
